@@ -1,69 +1,81 @@
-# React + TypeScript + Vite
+<h1 align="center">Hello👋, I'm Chitransh Saxena</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
-Currently, two official plugins are available:
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3U5cXp1NzdlMzR5ajAyMzJmdDJtbGl3NTZlZjEzazhmcm1kdWpweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" alt="coding animation" />
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+###
 
-## Expanding the ESLint configuration
+<p align="center">
+  🌱 I'm currently learning Animation (like GSAP), Authentication and Authorization<br>
+  💬 Ask me about HTML5, CSS, TailwindCSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB<br>
+  📫 How to reach me: <a href="mailto:chitransh_saxena@outlook.com">chitransh_saxena@outlook.com</a>
+</p>
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+###
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+<h3 align="center">Languages and Tools</h3>
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,redux,materialui,git,github,vscode" alt="skills icons" />
+</div>
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+###
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+<h3 align="center">📫 Connect with me</h3>
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+<div align="center">
+  <!-- WhatsApp -->
+  <a href="https://wa.me/917017879001" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  
+  <!-- Telegram -->
+  <a href="https://t.me/+917017879001" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  
+  <!-- Outlook -->
+  <a href="mailto:chitransh_saxena@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:chitranshsaxena9001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/chitransh-saxena19092004" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/18sr5QWdEW/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/_chunmun___?igsh=ejFzZzJlaWxhdDVj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+###
+
+<div align="center">
+  <h3>📞 Direct Contact</h3>
+  <p>
+    Phone: <a href="tel:+917017879001">+91 7017879001</a><br>
+    Outlook: <a href="mailto:chitransh_saxena@outlook.com">chitransh_saxena@outlook.com</a><br>
+    Gmail: <a href="mailto:chitranshsaxena9001@gmail.com">chitranshsaxena9001@gmail.com</a>
+  </p>
+</div>
+
+###
+
+<div align="center">
+  <p>⭐ If you like my projects, please consider giving them a star on GitHub! ⭐</p>
+</div>
