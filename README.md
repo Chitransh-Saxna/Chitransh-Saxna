@@ -58,7 +58,7 @@
   </a>
   
   <!-- Instagram -->
-  <a href="https://www.instagram.com/_chunmun___?igsh=ejFzZzJlaWxhdDVj" target="_blank">
+  <a href="https://www.instagram.com/_chunmun___" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
@@ -70,7 +70,7 @@
   <p>
     Phone: <a href="tel:+917017879001">+91 7017879001</a><br>
     Outlook: <a href="mailto:chitransh_saxena@outlook.com">chitransh_saxena@outlook.com</a><br>
-    Gmail: <a href="mailto:chitranshsaxena9001@gmail.com">chitranshsaxena9001@gmail.com</a>
+    My Portfolio: <a href="https://chitransh-saxna.github.io/Chitransh-Saxna/">https://chitransh-saxna.github.io/Chitransh-Saxna/</a>
   </p>
 </div>
 
